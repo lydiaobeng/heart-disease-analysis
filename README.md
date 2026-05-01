@@ -131,3 +131,10 @@ heart-disease/
 
 **Lydia Obeng Bema**
 [LinkedIn](https://www.linkedin.com/in/lydia-obeng-bema-93a647393) | [GitHub](https://github.com/lydiaobeng)
+
+
+## Citation
+
+If you use this work, please cite:
+
+Obeng Bema, L. (2026). *Beyond Cholesterol: A Machine Learning Analysis of Heart Disease Predictors Using the UCI Cleveland Dataset* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19956655
